@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7c154d9-ee78-490f-ac75-1e1d45599376" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SdAOgFfXmilmmb2MoJH3wbh1Eg" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\后台管理系统\after-serve\routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\后台管理系统\after-serve\routes\port" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c154d9-ee78-490f-ac75-1e1d45599376" name="Default Changelist" comment="" />
+      <created>1571883068759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571883068759</updated>
+      <workItem from="1571883070422" duration="6146000" />
+      <workItem from="1571897367073" duration="9192000" />
+      <workItem from="1571971513712" duration="7442000" />
+      <workItem from="1572010912941" duration="2509000" />
+      <workItem from="1572051525746" duration="5114000" />
+      <workItem from="1572069423542" duration="1990000" />
+      <workItem from="1572086041682" duration="6191000" />
+      <workItem from="1572098953452" duration="4025000" />
+      <workItem from="1572137466381" duration="214000" />
+      <workItem from="1572137740320" duration="1022000" />
+      <workItem from="1572138811940" duration="4596000" />
+      <workItem from="1572147417736" duration="2446000" />
+      <workItem from="1572156973809" duration="783000" />
+      <workItem from="1572169789665" duration="1553000" />
+      <workItem from="1572223666767" duration="5927000" />
+      <workItem from="1572310689293" duration="6597000" />
+      <workItem from="1572329133811" duration="3898000" />
+      <workItem from="1572415420886" duration="632000" />
+      <workItem from="1572416077667" duration="4013000" />
+      <workItem from="1572425772681" duration="47000" />
+      <workItem from="1572488089904" duration="4055000" />
+      <workItem from="1572508451263" duration="5100000" />
+      <workItem from="1572515494301" duration="2852000" />
+      <workItem from="1572519172018" duration="6996000" />
+      <workItem from="1572534214264" duration="327000" />
+      <workItem from="1572535004780" duration="404000" />
+      <workItem from="1572535592169" duration="140000" />
+      <workItem from="1572599226602" duration="53000" />
+      <workItem from="1573909134933" duration="2015000" />
+      <workItem from="1573917211564" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/account.js</url>
+          <line>185</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

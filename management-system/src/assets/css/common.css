@@ -1,0 +1,326 @@
+
+
+/* 公共样式 */
+/* 添加竖直线 */
+.ver-line {position: absolute;height: 100%;width: 1px;background: #eee;top: 0px;left: 100px;}
+
+/* 一行否则出现省略号 */
+.line-clamp1 {overflow: hidden;text-overflow: ellipsis;display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical;}
+.line-clamp2 {overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;}
+.line-clamp3 {overflow: hidden;text-overflow: ellipsis; display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;}
+
+.overflHid{overflow: hidden;}
+
+.pr{position: relative;}
+
+.fl{float: left;}
+
+.fr {float: right;}
+
+.flex {display: -webkit-box;display: -moz-box;display: -ms-flexbox;display: -webkit-flex; display: flex;}
+
+.text-center {text-align: center;}
+
+.text-left {text-align: left;}
+
+.text-right {text-align: right;}
+
+/*清除浮动*/
+.clearfix:after {
+    clear: both;
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+.show {
+    display: block !important;
+}
+
+.none {
+    display: none ;
+}
+
+.calc {
+    width: 90% !important;
+    width: calc(100% - 30px) !important;
+    width: -moz-calc(100% - 30px) !important;
+    width: -webkit-calc(100% - 30px) !important;
+}
+
+/* margin padding */
+.marJZ{margin: 0 auto !important;}
+.mar20{margin: 20px;}
+.marTop5{margin-top: 5px;}
+.marTop22{margin-top: 22px;}
+.marTop24{margin-top: 24px;}
+.marTop20{margin-top: 20px !important;}
+.marTop25{margin-top: 25px !important;}
+.marTop30{margin-top: 30px !important;}
+.marTop10{margin-top: 10px;}
+.marTop50{margin-top: 50px;}
+.marTop64{margin-top: 64px;}
+.marTop100{margin-top: 100px;}
+.marRig10{margin-right: 10px;}
+.marRig20{margin-right: 20px;}
+.marLef10{margin-left: 10px;}
+.marLef20{margin-left: 20px;}
+.marLef30{margin-left: 30px;}
+.marLef50{margin-left: 50px;}
+.marLef104{margin-left: 104px;}
+.marLef300{margin-left: 300px;}
+.padLef10{padding-left: 10px;}
+.padLef20{padding-left: 20px;}
+.padLef42{padding-left: 42px;}
+.marTop4rem{margin-top: 4rem !important;}
+.padTop10{padding-top: 10px;}
+.padTop20{padding-top: 20px;}
+.padTop2{padding-top: 2px !important;}
+.padTop6{padding-top: 6px;}
+.paddRig5{padding-right: 5px;}
+.paddRig10{padding-right: 10px;}
+.paddBot10{padding-bottom: 10px;}
+.paddBot20{padding-bottom: 20px;}
+
+/*font*/
+.fontS12{font-size: 12px;}
+.fontS14{font-size: 14px;}
+.fontS16{font-size: 16px;}
+.fontS18{font-size: 18px !important;}
+.fontS20{font-size: 20px;}
+.fontS24{font-size: 24px;}
+.fontS32{font-size: 32px;}
+.font80{font-size: 80%;}
+.font120{font-size: 120%;}
+.font140{font-size: 140%;}
+.fontWei{font-weight: bolder;}
+
+/* 行高 */
+.lineH30{line-height: 30px;}
+.lineH20{line-height: 20px;}
+.lineH40{line-height: 40px;}
+
+/* 文本缩进 */
+.textInd10{text-indent: 10px;}
+.textInd4{text-indent: 4px;}
+.textInd20{text-indent: 20px;}
+
+/* 字符间距 */
+.letterSpace2{letter-spacing: 2px;}
+
+/*颜色*/
+.colorLightGreen{color: #6eff10 !important;}
+.colorf60{color: #f60 !important;}
+.colorRed{color: red !important;}
+.colorBla{color: black !important;}
+.colorWhite{color: white !important;}
+.colorGray{color: #b3b3b3 !important;}
+.colorsky{color: #1BC0FF !important;}
+.colorBlue{color: #468bfd;}
+
+/* 边框*/
+.borRig1{border-right: 1px solid #ccc;}
+
+
+
+/* 通栏 */
+.container-fluid {
+    width: 100%;
+    min-width: 1200px;
+}
+
+/* 背景色 */
+.bgc000{background-color: #000000 !important;}
+.bgcfff{background-color: #fff !important;}
+.bgcf2f2f2{background-color: #f2f2f2 !important;}
+
+/* 版心 */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* 测试工具 */
+.bd {
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+.bdCole1{border: 1px solid #e1e1e1;}
+
+
+
+
+
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "微软雅黑", "PingFang SC", Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+    color: #333;
+    background-color: #fff;
+    font-size: 12px;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{text-decoration: none;}
+
+input[disabled], input:disabled {
+    background-color: transparent;
+}
+
+a, input {
+    -webkit-tap-highlight-color: rgba(255, 0, 0, 0);
+}
+
+input, textarea {
+    -webkit-user-select: auto; /*webkit浏览器*/
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+}
+
+a,
+input,
+button {
+    outline: none;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+a:hover, a:active, a:focus {
+    text-decoration: none !important;
+}
+
+
+img {
+    max-width: 100%;
+    border: 0px;
+}
+
+select,
+input,
+img,
+select {
+    vertical-align: middle;
+}
+
+i {
+    font-style: normal;
+}
+
+/* ios解决滑动问题 */
+*, *:after, *:before {
+    -webkit-overflow-scrolling: touch;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/*在移动端上input和textarea边框问题*/
+/*去掉ios上阴影*/
+input, textarea {
+    outline: none;
+}
+
+/* 宽度 */
+.w-all {
+    width: 100%;
+}
+
+
+
